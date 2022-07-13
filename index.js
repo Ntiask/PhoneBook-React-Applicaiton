@@ -15,9 +15,6 @@ const generateId = () =>{
 }
 
 
-
-
-
 let persons = [
       {
         name: "Mia",
